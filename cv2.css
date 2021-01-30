@@ -34,3 +34,11 @@ h5 {
 body {
     background-color: rgba(9, 173, 137, 0.05);
 } 
+.spacing {
+    margin-bottom: 0em;
+    margin-top: 1em;
+}
+.divh6 h6 {
+    font-size: 1.5em;
+    
+}
